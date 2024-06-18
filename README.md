@@ -13,3 +13,7 @@ Output Layer: A convolutional layer with a single filter and sigmoid activation 
 
 Implemented Paper
 This project is inspired by various research papers in the field of image denoising. One notable paper is "Image Denoising by Sparse 3D Transform-Domain Collaborative Filtering" by K. Dabov, A. Foi, V. Katkovnik, and K. Egiazarian. The paper presents an advanced denoising algorithm based on collaborative filtering in a 3D transform domain, known as BM3D. While our model does not directly implement BM3D, it leverages similar principles of capturing spatial correlations in images. The paper can be accessed : "https://ieeexplore.ieee.org/document/4299272"
+
+Results 
+PSNR: 21.14768981722792
+MSE: 0.007677697876355885
